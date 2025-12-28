@@ -1,0 +1,136 @@
+==================================================
+ðŸ“ GenAI prompt for: ORGANIC ENERGY BARS
+==================================================
+
+
+Using this product data:
+Product Name: Organic Energy Bars
+Description: Wholesome, nutrient-dense bars made with organic ingredients, perfect for a quick, healthy snack or pre-workout boost.
+Reviews: []
+Target Persona: Working people
+
+Create personalized marketing content for [target persona]:
+
+1. Personal Hook: Create emotional connection using customer pain points/desires
+2. Generate:
+
+* Custom headline addressing [target persona] needs
+* 2 personalized social posts highlighting how product fits their lifestyle
+* Tailored benefits matching customer profile
+* Specific use cases for this customer type
+* Personal testimonials from similar customers
+
+Tone: Match [target persona] preferences
+Focus: Connect product benefits to personal needs
+Include: Targeted solutions and relatable experiences
+
+
+==================================================
+ðŸ“ GenAI prompt for: READY-TO-EAT ORGANIC SALADS
+==================================================
+
+
+Using this product data:
+Product Name: Ready-to-eat Organic Salads
+Description: Fresh, pre-prepared salads using organic vegetables, grains, and protein sources, dressed with our signature organic vinaigrettes.
+Reviews: ["These little guys are tasty and refreshing.<br /><br />I usually eat salads for lunch which can do terrible things to breath.  I eat 2 of these after lunch (because they are so small) and I find this sufficiently resolves the problem.<br /><br />They're sugar free (sugar can actually help the smelly bacteria grow) which is great and they're tasty enough that I almost think of them as part of my lunch.<br /><br />This is a good bulk value buy and I'd highly recommend the mints themselves.  Cheers!"
+ "I like a lot of sesame oil and use it in salads regularly.  Great quality, flavor and aroma.  Can't beat that its organic!"]
+Target Persona: Working people
+
+Create personalized marketing content for [target persona]:
+
+1. Personal Hook: Create emotional connection using customer pain points/desires
+2. Generate:
+
+* Custom headline addressing [target persona] needs
+* 2 personalized social posts highlighting how product fits their lifestyle
+* Tailored benefits matching customer profile
+* Specific use cases for this customer type
+* Personal testimonials from similar customers
+
+Tone: Match [target persona] preferences
+Focus: Connect product benefits to personal needs
+Include: Targeted solutions and relatable experiences
+
+
+==================================================
+ðŸ“ GenAI prompt for: PLANT-BASED MILK ALTERNATIVES
+==================================================
+
+
+Using this product data:
+Product Name: Plant-based Milk Alternatives
+Description: Creamy, dairy-free milk options made from organic nuts, seeds, or grains, fortified with essential vitamins and minerals.
+Reviews: ["What else do you need to know? Oatmeal, instant (make it with a half cup of low-fat milk and add raisins;nuke for 90 seconds). More expensive than Kroger store brand oatmeal and maybe a little tastier or better texture or something. It's still just oatmeal. Mmm, convenient!"
+ "Good oatmeal.  I like the apple cinnamon the best.  Though I wouldn't follow the directions on the package since it always comes out too soupy for my taste.  That could just be me since I like my oatmeal really thick to add some milk on top of."]
+Target Persona: Working people
+
+Create personalized marketing content for [target persona]:
+
+1. Personal Hook: Create emotional connection using customer pain points/desires
+2. Generate:
+
+* Custom headline addressing [target persona] needs
+* 2 personalized social posts highlighting how product fits their lifestyle
+* Tailored benefits matching customer profile
+* Specific use cases for this customer type
+* Personal testimonials from similar customers
+
+Tone: Match [target persona] preferences
+Focus: Connect product benefits to personal needs
+Include: Targeted solutions and relatable experiences
+
+
+==================================================
+ðŸ“ GenAI prompt for: GLUTEN-FREE CRACKERS
+==================================================
+
+
+Using this product data:
+Product Name: Gluten-free Crackers
+Description: Crispy, flavorful crackers made from organic, gluten-free grains and seeds, ideal for snacking or pairing with dips.
+Reviews: ['These are just like the animal crackers we eat.  The price is great and my little guy loves them!'
+ 'Got this item on a one-day-only sale on Amazon.  Love having the single-serving portion as I am following WW plan.  Only 3 points plus per serving.  Tasty and on the same line as the Special K crackers.  The variety is nice to have and the box will last for awhile.  Cheddar and BBQ are my favorites.  Try them...']
+Target Persona: Working people
+
+Create personalized marketing content for [target persona]:
+
+1. Personal Hook: Create emotional connection using customer pain points/desires
+2. Generate:
+
+* Custom headline addressing [target persona] needs
+* 2 personalized social posts highlighting how product fits their lifestyle
+* Tailored benefits matching customer profile
+* Specific use cases for this customer type
+* Personal testimonials from similar customers
+
+Tone: Match [target persona] preferences
+Focus: Connect product benefits to personal needs
+Include: Targeted solutions and relatable experiences
+
+
+==================================================
+ðŸ“ GenAI prompt for: ORGANIC BREAKFAST CEREALS
+==================================================
+
+
+Using this product data:
+Product Name: Organic Breakfast Cereals
+Description: Crunchy, nutritious cereals made from organic whole grains, lightly sweetened with organic fruits or honey.
+Reviews: ["It's balanced, it's tasty, it's filling, it's good for you -- what more could you ask of a breakfast cereal?<br /><br />I still miss Kellogg's sister product, Just Right, which was a somewhat lighter blend (I loved it, they discontinued it), but Mueslix is a strong second-best."]
+Target Persona: Working people
+
+Create personalized marketing content for [target persona]:
+
+1. Personal Hook: Create emotional connection using customer pain points/desires
+2. Generate:
+
+* Custom headline addressing [target persona] needs
+* 2 personalized social posts highlighting how product fits their lifestyle
+* Tailored benefits matching customer profile
+* Specific use cases for this customer type
+* Personal testimonials from similar customers
+
+Tone: Match [target persona] preferences
+Focus: Connect product benefits to personal needs
+Include: Targeted solutions and relatable experiences
